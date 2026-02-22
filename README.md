@@ -62,6 +62,5 @@ O repositório contém implementações completas utilizando:
 - Decision Tree
 - Random Forest
 
-## 🎯 Objetivo do Experimento
-
+## 🎯 Objetivo 
 Demonstrar como modelos pré-treinados podem ser integrados a algoritmos clássicos de Machine Learning para tarefas de classificação de texto, evidenciando diferenças de desempenho entre abordagens baseadas em distância, margem e árvores de decisão.
